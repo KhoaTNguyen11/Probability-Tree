@@ -1,0 +1,5 @@
+8
+Red 3
+Orange 1
+Yellow 2
+Green 2
